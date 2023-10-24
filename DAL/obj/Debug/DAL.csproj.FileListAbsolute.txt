@@ -1,0 +1,24 @@
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DAL\obj\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DAL\obj\Debug\DAL.pdb

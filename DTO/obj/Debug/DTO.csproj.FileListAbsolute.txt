@@ -1,0 +1,16 @@
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\obj\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\DTO\obj\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\obj\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\DTO\obj\Debug\DTO.pdb

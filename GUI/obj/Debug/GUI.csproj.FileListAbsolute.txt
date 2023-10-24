@@ -1,0 +1,94 @@
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\GUI.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\GUI.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\GUI.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\BLL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\BLL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmMain.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmMenu.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.RJControls.RJListItem.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmDSHoaDon.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmChinhSuaHoaDon.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmCaiDat.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmTroGiup.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmBaoCao.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\GUI.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\GUI.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\GUI.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\BLL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\BLL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmBaoCao.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmCaiDat.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmChinhSuaHoaDon.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmDSHoaDon.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmMain.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmMenu.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmSaoLuuPhucHoi.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.frmTroGiup.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.RJControls.RJListItem.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\GUI\obj\Debug\GUI.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Memory.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Buffers.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmSearch.resources
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\bin\Debug\System.IO.Pipelines.dll
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\GUI\obj\Debug\GUI.frmXuathoadon.resources

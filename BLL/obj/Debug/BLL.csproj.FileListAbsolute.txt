@@ -1,0 +1,30 @@
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\BLL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\BLL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA\BLL\obj\Debug\BLL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\BLL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\BLL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DAL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DTO.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DAL.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DAL.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DTO.pdb
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\bin\Debug\DTO.exe.config
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.exe
+D:\HK6\LTQL\Lamdoan\QL_HD_TRA_SUA - Copy\BLL\obj\Debug\BLL.pdb
